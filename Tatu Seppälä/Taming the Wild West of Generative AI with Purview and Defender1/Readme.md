@@ -6,4 +6,5 @@
 
 Tame the Wild West of GenAI without simply saying “no.” This demo-driven session shows how Microsoft Purview, Defender and Intune combine to discover AI usage, apply risk-based guardrails and protect business data across browsers, mobile devices and local AI agents. Leave with practical controls and hunting queries you can put to work
 
+## Materials
 - [Slides (PDF)](NIC26-Seppala-TamingTheWildWestOfGenAI.pdf)
